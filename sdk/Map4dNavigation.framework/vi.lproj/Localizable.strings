@@ -1,0 +1,19 @@
+/* 
+  Localize.strings
+  Map4dNavigation
+
+  Created by iMacbook on 12/6/19.
+  Copyright © 2019 Sua Le. All rights reserved.
+*/
+
+"App.Center" = "Về giữa";
+"App.Continue" = "Tiếp tục trên đường %@";
+"App.Meters" = "Mét";
+"App.m" = "m";
+"App.KiloMeters" = "Ki lô mét";
+"App.km" = "km";
+"General.Minute" = "phút";
+"General.Hour" = "giờ";
+"General.Day" = "ngày";
+"General.DestinationLeft" = "ở bên trái của bạn";
+"General.DestinationRight" = "ở bên phải của bạn";

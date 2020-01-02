@@ -17,3 +17,4 @@
 "General.Day" = "d";
 "General.DestinationLeft" = "on the left";
 "General.DestinationRight" = "on the right";
+"General.Rerouting" = "Rerouting...";

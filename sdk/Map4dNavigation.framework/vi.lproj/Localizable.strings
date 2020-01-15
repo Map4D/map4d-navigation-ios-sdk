@@ -6,6 +6,7 @@
   Copyright © 2019 Sua Le. All rights reserved.
 */
 
+"Popup.Notification" = "Map4DNavigation";
 "App.Center" = "Về giữa";
 "App.Continue" = "Tiếp tục trên đường %@";
 "App.Meters" = "Mét";
@@ -18,3 +19,9 @@
 "General.DestinationLeft" = "ở bên trái của bạn";
 "General.DestinationRight" = "ở bên phải của bạn";
 "General.Rerouting" = "Đang tìm đường đi mới...";
+"General.Remain" = "Còn %d mét nữa";
+"General.Finish" = "Bạn đã đến nơi!";
+"General.Arrival" = "Thời gian đến";
+"General.Cancel" = "Huỷ bỏ";
+"General.Setting" = "Cài đặt";
+"General.MyLocationMissing" = "Bạn đã từ chối quyền truy cập vị trí của bạn cho ứng dụng. Hãy cho phép ứng dụng truy cập vị trí của bạn";

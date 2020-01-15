@@ -6,6 +6,7 @@
   Copyright © 2019 Sua Le. All rights reserved.
 */
 
+"Popup.Notification" = "Map4DNavigation";
 "App.Center" = "Re-center";
 "App.Continue" = "Continue on %@";
 "App.Meters" = "Meters";
@@ -18,3 +19,9 @@
 "General.DestinationLeft" = "on the left";
 "General.DestinationRight" = "on the right";
 "General.Rerouting" = "Rerouting...";
+"General.Remain" = "In %d meters ";
+"General.Finish" = "You have arrived!";
+"General.Arrival" = "Arrival time";
+"General.Cancel" = "Cancel";
+"General.Setting" = "Setting";
+"General.MyLocationMissing" = "You have denied permission for this application. Please allow it to use your location service";

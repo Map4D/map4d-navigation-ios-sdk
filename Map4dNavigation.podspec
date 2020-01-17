@@ -14,5 +14,6 @@ Pod::Spec.new do |s|
     s.dependency 'Alamofire', '~> 4.7'
     s.dependency 'AlamofireMapper'
     s.ios.deployment_target = '10.0'
+    s.swift_version = '5.0'
     s.ios.vendored_frameworks = 'sdk/Map4dNavigation.framework'
 end

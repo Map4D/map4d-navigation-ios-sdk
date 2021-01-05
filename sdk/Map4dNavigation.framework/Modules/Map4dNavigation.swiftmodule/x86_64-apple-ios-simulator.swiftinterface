@@ -1,0 +1,78 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)
+// swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Map4dNavigation
+import AVFoundation
+import CoreFoundation
+import CoreLocation
+import Foundation
+import Map4dMap
+@_exported import Map4dNavigation
+import Map4dServices
+import MapKit
+import Swift
+import UIKit
+import UserNotifications
+public typealias AnimationHandler = (Swift.Double) -> Swift.Void
+extension Bundle {
+  public var backgroundModes: Swift.Set<Swift.String> {
+    get
+  }
+}
+@objc open class MFNavigationViewController : UIKit.UIViewController {
+  @objc weak public var delegate: Map4dNavigation.MFNavigationViewControllerDelegate?
+  required public init(for route: Map4dServices.MFRoute, _ options: Map4dNavigation.MFNavigationOptions? = nil)
+  required public init(for waypoints: [Map4dServices.MFWaypoint], mode: Map4dServices.MFTravelMode)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+  @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+}
+@_inheritsConvenienceInitializers @objc open class MFNavigationOptions : ObjectiveC.NSObject {
+  public var direction: Map4dServices.MFDirection?
+  public var accessKey: Swift.String?
+  public var simulation: Swift.Bool?
+  public var isIdleTimerDisabled: Swift.Bool?
+  @objc deinit
+  @objc override dynamic public init()
+}
+public enum NavigationState {
+  case `default`
+  case preView
+  case followView
+  case overView
+  public static func == (a: Map4dNavigation.NavigationState, b: Map4dNavigation.NavigationState) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+extension UIColor {
+  convenience public init?(hex: Swift.String)
+}
+@objc @_inheritsConvenienceInitializers public class MathUtil : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  public static func distance(coordinate0: CoreLocation.CLLocationCoordinate2D, coordinate1: CoreLocation.CLLocationCoordinate2D, unit: Swift.String?) -> Swift.Double
+  public static func deg2rad(deg: Swift.Double) -> Swift.Double
+  public static func rad2deg(rad: Swift.Double) -> Swift.Double
+  public static func midPoint(point0: CoreLocation.CLLocationCoordinate2D, point1: CoreLocation.CLLocationCoordinate2D, distance: Swift.Double) -> CoreLocation.CLLocationCoordinate2D
+  @objc deinit
+}
+@objc public protocol MFNavigationViewControllerDelegate {
+  @objc func onStart()
+  @objc func onComplete(waypoint: Map4dServices.MFWaypoint, finish: Swift.Bool)
+  @objc func onDismiss(remainDistance: Swift.Int, wayPointIndex: Swift.Int)
+}
+public enum RouteState {
+  case tracking
+  case freemove
+  case complete
+  case offRoute
+  public static func == (a: Map4dNavigation.RouteState, b: Map4dNavigation.RouteState) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+extension Map4dNavigation.NavigationState : Swift.Equatable {}
+extension Map4dNavigation.NavigationState : Swift.Hashable {}
+extension Map4dNavigation.RouteState : Swift.Equatable {}
+extension Map4dNavigation.RouteState : Swift.Hashable {}

@@ -20,19 +20,16 @@ extension Bundle {
 }
 @objc open class MFNavigationViewController : UIKit.UIViewController {
   @objc weak public var delegate: Map4dNavigation.MFNavigationViewControllerDelegate?
-  required public init(for route: Map4dServices.MFRoute, _ options: Map4dNavigation.MFNavigationOptions? = nil)
+  required public init(for route: Map4dServices.MFRoute, directionOptions: Map4dServices.MFDirectionOptions, _ options: Map4dNavigation.MFNavigationOptions? = nil)
   required public init(for waypoints: [Map4dServices.MFWaypoint], mode: Map4dServices.MFTravelMode)
   @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
   @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
 }
 @_inheritsConvenienceInitializers @objc open class MFNavigationOptions : ObjectiveC.NSObject {
-  public var direction: Map4dServices.MFDirection?
-  public var accessKey: Swift.String?
-  public var simulation: Swift.Bool?
-  public var isIdleTimerDisabled: Swift.Bool?
-  @objc deinit
+  public var isIdleTimerDisabled: Swift.Bool
   @objc override dynamic public init()
+  @objc deinit
 }
 public enum NavigationState {
   case `default`

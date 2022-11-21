@@ -2,8 +2,7 @@
 //  Map4dNavigation.h
 //  Map4dNavigation
 //
-//  Created by Sua Le on 11/13/19.
-//  Copyright © 2019 Sua Le. All rights reserved.
+//  Created by Huy Dang on 3/17/22.
 //
 
 #import <Foundation/Foundation.h>
@@ -15,5 +14,7 @@ FOUNDATION_EXPORT double Map4dNavigationVersionNumber;
 FOUNDATION_EXPORT const unsigned char Map4dNavigationVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Map4dNavigation/PublicHeader.h>
-
+#import "MFNavigationOptions.h"
+#import "MFNavigationViewController.h"
+#import "MFNavigationViewControllerDelegate.h"
 

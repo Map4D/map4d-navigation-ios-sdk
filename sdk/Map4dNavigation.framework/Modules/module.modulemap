@@ -4,8 +4,3 @@ framework module Map4dNavigation {
   export *
   module * { export * }
 }
-
-module Map4dNavigation.Swift {
-    header "Map4dNavigation-Swift.h"
-    requires objc
-}

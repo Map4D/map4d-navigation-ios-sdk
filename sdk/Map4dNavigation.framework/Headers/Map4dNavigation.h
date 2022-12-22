@@ -1,8 +1,9 @@
 //
 //  Map4dNavigation.h
-//  Map4dNavigation
+//  Map4dNavigation SDK for iOS
+//  Version 1.2.1
 //
-//  Created by Huy Dang on 3/17/22.
+//  Copyright (c) 2022 IOTLink LLC.
 //
 
 #import <Foundation/Foundation.h>

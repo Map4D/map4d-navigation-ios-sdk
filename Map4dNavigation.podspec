@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name              = 'Map4dNavigation'
-    s.version           = '1.2.0'
-    s.summary           = 'Map4D Navigation SDK'
+    s.version           = '1.2.1'
+    s.summary           = 'Map4D Navigation SDK for iOS'
     s.homepage          = 'http://map4d.vn'
 
     s.author            = { 'IOTLink' => 'admin@iotlink.com.vn' }

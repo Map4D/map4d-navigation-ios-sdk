@@ -6,27 +6,27 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		NeXwM4O3X/7U/jZm2GoDVAogSvA=
+		2FyYlUtYVX2gEYPovmwrblh1a4c=
 		</data>
 		<key>Headers/MFNavigationOptions.h</key>
 		<data>
-		eLw0mGI+1p0NNxtotR+6gNRe7jg=
+		f3onZp8unK0ZOaGL4O6jsBI+Dhg=
 		</data>
 		<key>Headers/MFNavigationViewController.h</key>
 		<data>
-		ly75vEmzpKrDIGx9Iqg9VgfbIUk=
+		CtS+lmer/O8EMHfG7K6Ljj1rvQc=
 		</data>
 		<key>Headers/MFNavigationViewControllerDelegate.h</key>
 		<data>
-		kYuCHT3tC3g2OdX6M8fOLMRyXQA=
+		qzNKqmN37f/oL8lTjMpCcl9Z85c=
 		</data>
 		<key>Headers/Map4dNavigation.h</key>
 		<data>
-		SoOsFHP/WuI7ka8yR+AjwjJxgNA=
+		dTF8NHBE8dlVzcboVC/i+yyTL68=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CQZUXMzxTq0QVLB9lR0NK1KKyjo=
+		C42bMdEUx87BkApO8PnQCCgD3z0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,55 +43,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NeXwM4O3X/7U/jZm2GoDVAogSvA=
+			2FyYlUtYVX2gEYPovmwrblh1a4c=
 			</data>
 			<key>hash2</key>
 			<data>
-			HkF2JI8aoCkHIo1lhb23ITbqQA1uOzFXrLXmmkOc/B8=
+			lO9lKFjM4YBxwBPHutLpEPvotDrFSxasYPJtAWhk8qA=
 			</data>
 		</dict>
 		<key>Headers/MFNavigationOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eLw0mGI+1p0NNxtotR+6gNRe7jg=
+			f3onZp8unK0ZOaGL4O6jsBI+Dhg=
 			</data>
 			<key>hash2</key>
 			<data>
-			RW2cQ+k76G0hS2+6wiolt8NumK+CMimuxlyRWY3o4+M=
+			Y2AL9c3quqCRyZomFFxQ6txOwrQrW7H4hJXGcuKRq/4=
 			</data>
 		</dict>
 		<key>Headers/MFNavigationViewController.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ly75vEmzpKrDIGx9Iqg9VgfbIUk=
+			CtS+lmer/O8EMHfG7K6Ljj1rvQc=
 			</data>
 			<key>hash2</key>
 			<data>
-			YcZpvVfSw9TiGcM/S8LRrCDqlbkQJIwRoiEe4vuq9TI=
+			TzkJ4SP57AYYa2MdQVRp9bQ31+TU6+mZpbbSwdmTRzQ=
 			</data>
 		</dict>
 		<key>Headers/MFNavigationViewControllerDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kYuCHT3tC3g2OdX6M8fOLMRyXQA=
+			qzNKqmN37f/oL8lTjMpCcl9Z85c=
 			</data>
 			<key>hash2</key>
 			<data>
-			zIfJfTb3nYmsdEwCAZwszePcvtURGXJS8NSBzFWbS8Q=
+			sfZ84Len1Ud/1vO6t/98A4AEv18v6ngTQyaLG2zblm4=
 			</data>
 		</dict>
 		<key>Headers/Map4dNavigation.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SoOsFHP/WuI7ka8yR+AjwjJxgNA=
+			dTF8NHBE8dlVzcboVC/i+yyTL68=
 			</data>
 			<key>hash2</key>
 			<data>
-			1DtvaA1JXBA5BHJMTiZ7p4qrOI/fwDyA51iKKXs5kDw=
+			d0QFD4vqYd4gmCyuTGb70609fPan0ehMR9aLJRgG/TE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

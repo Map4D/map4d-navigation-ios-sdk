@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		2FyYlUtYVX2gEYPovmwrblh1a4c=
+		O1+giQFEbLNrux8LU+HBqpZTQf8=
 		</data>
 		<key>Headers/MFNavigationOptions.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Headers/Map4dNavigation.h</key>
 		<data>
-		dTF8NHBE8dlVzcboVC/i+yyTL68=
+		uj3ioq5Pm3Nozjcy/t9jg/xw+vQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		C42bMdEUx87BkApO8PnQCCgD3z0=
+		vrfAX24nQeRJQoA8zLTy8c1DSLI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Vietnamese.strings</key>
 		<data>
-		H+QDLbea03gy7ZjyJdMRbFHEsv0=
+		92p4phHGr8Fm7HfJ+P1JDho5tdI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2FyYlUtYVX2gEYPovmwrblh1a4c=
+			O1+giQFEbLNrux8LU+HBqpZTQf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lO9lKFjM4YBxwBPHutLpEPvotDrFSxasYPJtAWhk8qA=
+			mgdBTAiwx+G7GTknCvEm341+7BYQGbzeVn1nUq95AT4=
 			</data>
 		</dict>
 		<key>Headers/MFNavigationOptions.h</key>
@@ -87,11 +87,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dTF8NHBE8dlVzcboVC/i+yyTL68=
+			uj3ioq5Pm3Nozjcy/t9jg/xw+vQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			d0QFD4vqYd4gmCyuTGb70609fPan0ehMR9aLJRgG/TE=
+			UC/aFymHCE95iNMQVghi11dvXN3vIrBgEZ9OfgzE22s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -109,11 +109,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H+QDLbea03gy7ZjyJdMRbFHEsv0=
+			92p4phHGr8Fm7HfJ+P1JDho5tdI=
 			</data>
 			<key>hash2</key>
 			<data>
-			FCeuz64xM2PqrG7k/0E1VzsUbGHhb47VcdGoOzok/OA=
+			31PI5dAQRdMMvp+JgFmH/tyvIm538ggUTU58pDRYLK4=
 			</data>
 		</dict>
 	</dict>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		O1+giQFEbLNrux8LU+HBqpZTQf8=
+		HZ35Dq9LxcB5oxUqyNuJdE+qibI=
 		</data>
 		<key>Headers/MFNavigationOptions.h</key>
 		<data>
@@ -22,19 +22,39 @@
 		</data>
 		<key>Headers/Map4dNavigation.h</key>
 		<data>
-		uj3ioq5Pm3Nozjcy/t9jg/xw+vQ=
+		IJV4Rk/P7bpl7Lex3lFlh7TrdEQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vrfAX24nQeRJQoA8zLTy8c1DSLI=
+		ZbXhKWJNli6GVmcn3bE+BNoBRz0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Ar8ILV/TYsnLu7P6+znAq+zW1tk=
 		</data>
+		<key>Quicksand-Bold.ttf</key>
+		<data>
+		hyemribGZGp/Jb/mVg4ZySZeqHw=
+		</data>
+		<key>Quicksand-Light.ttf</key>
+		<data>
+		c52HmSzxzZbP8MnDLkCSc4WjgUY=
+		</data>
+		<key>Quicksand-Medium.ttf</key>
+		<data>
+		SNICx6IVkUJkBk3Cf2qM136+MDY=
+		</data>
+		<key>Quicksand-Regular.ttf</key>
+		<data>
+		buv8sC8ULG4r9Y9/yzHxDskUoO0=
+		</data>
+		<key>Quicksand-SemiBold.ttf</key>
+		<data>
+		Q/2/eVuwt8xbDT28ve8M3sDynKk=
+		</data>
 		<key>Vietnamese.strings</key>
 		<data>
-		92p4phHGr8Fm7HfJ+P1JDho5tdI=
+		KtGw7KT0KXWUqo+xjTszZMxQXPw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O1+giQFEbLNrux8LU+HBqpZTQf8=
+			HZ35Dq9LxcB5oxUqyNuJdE+qibI=
 			</data>
 			<key>hash2</key>
 			<data>
-			mgdBTAiwx+G7GTknCvEm341+7BYQGbzeVn1nUq95AT4=
+			uDw+SVDJTGMhgzVUpGyob/M8tMcEN6ZNzNZFw1EYsk0=
 			</data>
 		</dict>
 		<key>Headers/MFNavigationOptions.h</key>
@@ -87,11 +107,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uj3ioq5Pm3Nozjcy/t9jg/xw+vQ=
+			IJV4Rk/P7bpl7Lex3lFlh7TrdEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			UC/aFymHCE95iNMQVghi11dvXN3vIrBgEZ9OfgzE22s=
+			KYy//d737QtKFw7QR3NwJ9ry8J1/p3oN9dYoDXpsFTk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -105,15 +125,70 @@
 			IeA9SvFtci1xxdPfMX1m9oei/YcgSdnRS9wKIO62obA=
 			</data>
 		</dict>
+		<key>Quicksand-Bold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hyemribGZGp/Jb/mVg4ZySZeqHw=
+			</data>
+			<key>hash2</key>
+			<data>
+			PB6srVmYv05VyYLRbgZ8qWpP8QD6QpxUi/ezeBpStL8=
+			</data>
+		</dict>
+		<key>Quicksand-Light.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c52HmSzxzZbP8MnDLkCSc4WjgUY=
+			</data>
+			<key>hash2</key>
+			<data>
+			qfTvZat8H0pqtrd/w6Qg/E7WWpN+UQA4wJAOMU3F5SA=
+			</data>
+		</dict>
+		<key>Quicksand-Medium.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SNICx6IVkUJkBk3Cf2qM136+MDY=
+			</data>
+			<key>hash2</key>
+			<data>
+			weVIhSq6b5o//yUD1qQsRjPlVJmmpcTIzen5HqYyAMQ=
+			</data>
+		</dict>
+		<key>Quicksand-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			buv8sC8ULG4r9Y9/yzHxDskUoO0=
+			</data>
+			<key>hash2</key>
+			<data>
+			OH1xLkQ3LsizVqtbBnRL2x8DAC+MTfZaNOu6z2PMiL4=
+			</data>
+		</dict>
+		<key>Quicksand-SemiBold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q/2/eVuwt8xbDT28ve8M3sDynKk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Z2YWU6p9gzAAKjBFjPzepr20xZG5Y6TLgYucKjEDP44=
+			</data>
+		</dict>
 		<key>Vietnamese.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			92p4phHGr8Fm7HfJ+P1JDho5tdI=
+			KtGw7KT0KXWUqo+xjTszZMxQXPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			31PI5dAQRdMMvp+JgFmH/tyvIm538ggUTU58pDRYLK4=
+			BmCBXIyGdPBl72cHXh2S3TmsZFb+45mph/EHJk+NCsU=
 			</data>
 		</dict>
 	</dict>

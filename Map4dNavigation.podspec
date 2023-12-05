@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name              = 'Map4dNavigation'
-    s.version           = '1.2.3'
+    s.version           = '1.3.0'
     s.summary           = 'Map4D Navigation SDK for iOS'
     s.homepage          = 'http://map4d.vn'
 
@@ -13,6 +13,6 @@ Pod::Spec.new do |s|
     s.ios.deployment_target   = '10.0'
     s.ios.vendored_frameworks = 'sdk/Map4dNavigation.framework'
 
-    s.dependency 'Map4dMap', '~> 2.3'
-    s.dependency 'Map4dServices', '~> 2.2'
+    s.dependency 'Map4dMap', '~> 2.6'
+    s.dependency 'Map4dServices', '~> 2.3'
 end

@@ -1,12 +1,12 @@
 PODS:
-  - Map4dMap (2.4.3)
-  - Map4dNavigation (1.2.0):
-    - Map4dMap (~> 2.3)
-    - Map4dServices (~> 2.1)
-  - Map4dServices (2.1.0)
+  - Map4dMap (3.0.0)
+  - Map4dNavigation (1.4.0):
+    - Map4dMap (~> 3.0)
+    - Map4dServices (~> 2.4)
+  - Map4dServices (2.4.1)
 
 DEPENDENCIES:
-  - Map4dNavigation (~> 1.2.0)
+  - Map4dNavigation (~> 1.4.0)
 
 SPEC REPOS:
   trunk:
@@ -15,10 +15,10 @@ SPEC REPOS:
     - Map4dServices
 
 SPEC CHECKSUMS:
-  Map4dMap: 6c1ff3b2ba14f5b7ce5d4acc6647faf923ae6ee9
-  Map4dNavigation: b95a5ad66d105c389251fc8f9c1d1fc48a787f23
-  Map4dServices: 63c3449a7867f20cf7f0ec028109a979241e754a
+  Map4dMap: 9fbf16c8d0ccb354989f63cf8cf32c986bd3244d
+  Map4dNavigation: 20f9a25a4e66f5ce3a62e95095509ffb6d32750b
+  Map4dServices: 206540224e3f4e4e47747cacba949bf29a25004f
 
-PODFILE CHECKSUM: c0d4ec6170ab6f4b65ef9e0a42f60997fcaa807c
+PODFILE CHECKSUM: d59fdd23a58d967f249fb9dbec142afcbff1d030
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2

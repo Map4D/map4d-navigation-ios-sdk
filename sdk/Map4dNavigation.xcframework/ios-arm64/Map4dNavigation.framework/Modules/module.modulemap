@@ -1,0 +1,6 @@
+framework module Map4dNavigation {
+  umbrella header "Map4dNavigation.h"
+
+  export *
+  module * { export * }
+}
